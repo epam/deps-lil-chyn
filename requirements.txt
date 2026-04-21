@@ -76,7 +76,7 @@ isort==5.13.2
 jedi==0.19.2
 jmespath==1.0.1
 lark==1.1.9
-lxml==6.0.0
+lxml==6.1.0
 mail-parser==3.14.0
 matplotlib-inline==0.1.7
 mccabe==0.7.0
