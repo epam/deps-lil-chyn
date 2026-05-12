@@ -175,7 +175,7 @@ typing-inspection==0.4.1
 tzdata==2025.2
 tzlocal==5.3.1
 uamqp==1.6.11
-urllib3==1.26.20
+urllib3==2.7.0
 wcwidth==0.2.13
 webcolors==24.11.1
 win-unicode-console==0.5
